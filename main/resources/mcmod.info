@@ -1,0 +1,16 @@
+[
+{
+  "modid": "testmod",
+  "name": "Test Mod",
+  "description": "test in modding",
+  "version": "{0.1}",
+  "mcversion": "{1.12}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["rendoge"],
+  "credits": "harry",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
